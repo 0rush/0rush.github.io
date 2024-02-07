@@ -1,2 +1,2 @@
-# CDNERD
+# cdnerd.github.io
 Meow Meow!
